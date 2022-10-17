@@ -4,7 +4,7 @@
 🌱 I have knowledge and projects in html, css, js, react and react native.<br />
 🔭 I’m currently working on learning and doing awesome projects.<br />
 ⚡ I'm based in Tucumán, Argentina.<br />
-💬 I speak spanish, english and french.<br />
+💬 I speak spanish, english and french.<br />  <br />
 [![Raisitae's GitHub stats](https://github-readme-stats.vercel.app/api?username=raisitae&show_icons=true&theme=synthwave)](https://github.com/raisitae/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raisitae&layout=compact&theme=synthwave)](https://github.com/raisitae/github-readme-stats)
 
