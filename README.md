@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently on my way to become a FullStack Developer!
+🌱 I’m currently on my way to become a FullStack Developer!<br />
     I have done classes and projects in html, css, js, react and react native.
 🔭 I’m currently working on learning and doing awesome projects.
 ⚡ I'm based in Tucumán, Argentina.
