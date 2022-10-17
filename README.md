@@ -1,4 +1,9 @@
 ### Hi there 👋
+🌱 I’m currently on my way to become a FullStack Developer!
+    I have done classes and projects in html, css, js, react and react native.
+🔭 I’m currently working on learning and doing awesome projects.
+⚡ I'm based in Tucumán, Argentina.
+💬 I speak spanish, english and french.
 [![Raisitae's GitHub stats](https://github-readme-stats.vercel.app/api?username=raisitae&show_icons=true&theme=synthwave)](https://github.com/raisitae/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raisitae&layout=compact&theme=synthwave)](https://github.com/raisitae/github-readme-stats)
 
