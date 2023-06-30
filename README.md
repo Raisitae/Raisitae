@@ -1,7 +1,7 @@
 ## Hi there 👋 <br />
 ### My name is Raisa <br />
 🌱 I’m currently on my way to become a FullStack Developer!<br />
-🌱 I have knowledge and projects in html, css, js, react and react native.<br />
+🌱 I have knowledge and projects in html, css, js, java, react and react native.<br />
 🔭 I’m currently working on learning and doing awesome projects.<br />
 ⚡ I'm based in Tucumán, Argentina.<br />
 💬 I speak spanish, english and french.<br />  <br />
