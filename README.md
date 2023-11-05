@@ -1,11 +1,11 @@
 ## Hi there 👋 <br />
 ### My name is Raisa <br />
 🌱 I’m currently on my way to become a FullStack Developer!<br />
-🌱 I have knowledge and projects in html, css, js, java, react and react native.<br />
+🌱 I have knowledge and projects in html, css, js, java, c#, react and react native.<br />
 🔭 I’m currently working on learning and doing awesome projects.<br />
 ⚡ I'm based in Tucumán, Argentina.<br />
 💬 I speak spanish, english and french.<br />  <br />
-/*[![Raisitae's GitHub stats](https://github-readme-stats.vercel.app/api?username=raisitae&show_icons=true&theme=synthwave)](https://github.com/raisitae/github-readme-stats)*/
+<!--[![Raisitae's GitHub stats](https://github-readme-stats.vercel.app/api?username=raisitae&show_icons=true&theme=synthwave)](https://github.com/raisitae/github-readme-stats)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raisitae&layout=compact&theme=synthwave)](https://github.com/raisitae/github-readme-stats)
 
 <!--
